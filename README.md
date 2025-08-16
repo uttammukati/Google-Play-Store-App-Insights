@@ -2,7 +2,7 @@
 
 This **Power BI** project presents an interactive and insightful **Google Play Store App Performance Dashboard**. It is designed to monitor key app metrics over a selected period, enabling data-driven decisions for improving visibility, engagement, and user satisfaction.
 
-![Dashboard Screenshot](Dashboard.png)
+![Dashboard Screenshot](https://github.com/uttammukati/Google-Play-Store-App-Insights/blob/905545a91c45c1f0da3ec5023107bf0796dc25e4/DashBoard.png)
 
 ## 📊 Project Objective
 
